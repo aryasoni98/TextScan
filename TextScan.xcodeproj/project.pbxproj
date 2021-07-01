@@ -85,7 +85,6 @@
 		7C8AF98F268E522200EE67D5 = {
 			isa = PBXGroup;
 			children = (
-				7C93CEF2268E56B100D68045 /* LaunchScreen.storyboard */,
 				7C8AF99A268E522200EE67D5 /* TextScan */,
 				7C8AF9AC268E522400EE67D5 /* TextScanTests */,
 				7C8AF9B7268E522400EE67D5 /* TextScanUITests */,
@@ -112,6 +111,7 @@
 				7C8AF9CA268E537E00EE67D5 /* Model.swift */,
 				7C8AF9CC268E53A300EE67D5 /* ScannerView.swift */,
 				7C8AF9CE268E53CB00EE67D5 /* TextRecognition.swift */,
+				7C93CEF2268E56B100D68045 /* LaunchScreen.storyboard */,
 				7C8AF99F268E522400EE67D5 /* Assets.xcassets */,
 				7C8AF9A4268E522400EE67D5 /* Info.plist */,
 				7C8AF9A1268E522400EE67D5 /* Preview Content */,
